@@ -1,4 +1,4 @@
-# Comandos Básicos para Terminal
+# Comandos Básicos para Terminal👾
 
 ### Windows / Unix
 
